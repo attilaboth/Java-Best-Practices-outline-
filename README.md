@@ -2,9 +2,9 @@
   not a complete list of best practices
 
 # Creating Objects
-  Consider static factory methods instead of constructors
-  Consider a builder when faced with many constructor parameters
-  Prefer try-with-resources to try-finally
+  - Consider static factory methods instead of constructors
+  - Consider a builder when faced with many constructor parameters
+  - Prefer try-with-resources to try-finally
  
 # Methods Common to All Objects
   Always override hashCode when you override equals
