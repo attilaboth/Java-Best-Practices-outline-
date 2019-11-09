@@ -11,7 +11,9 @@
  
 # Methods Common to All Objects
   - Always override hashCode when you override equals
+    - Effective Java / HashCodeEqualsPersonMain.java
   - Always override toString
+    - 
   - Consider implementing Comparable (+ how is it done since Java 8)
     - Effective Java / Pojos / Person.java + PersonComparableMain.java
   
