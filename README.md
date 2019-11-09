@@ -3,6 +3,7 @@
 
 # Creating Objects
   - Consider static factory methods instead of constructors
+    -
   - Consider a builder when faced with many constructor parameters 
     - Effective Java / VehicleBuilder Example
   - Prefer try-with-resources to try-finally
@@ -16,12 +17,10 @@
     - Effective Java / HashCodeEqualsPersonMain.java 
   - Consider implementing Comparable (+ how is it done since Java 8)
     - Effective Java / Pojos / Person.java + PersonComparableMain.java
-  
-# Classes and Interfaces
-  - Prefer interfaces to abstract classes
 
 # General Programming
   - Prefer for-each loops to traditional for loops
+    - Effective Java / TraditionalForLoop.java
   - Avoid float and double if exact answers are required
     - Effective Java / BigDecimalOverFloat.java
   - Prefer primitive types to boxed primitives
