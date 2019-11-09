@@ -6,6 +6,8 @@
   - Consider a builder when faced with many constructor parameters 
     - Effective Java / VehicleBuilder Example
   - Prefer try-with-resources to try-finally
+    - Effective Java / TryWithResourceMain.java
+    - Effective Java / ImprovedExceptionHandling.java
  
 # Methods Common to All Objects
   - Always override hashCode when you override equals
