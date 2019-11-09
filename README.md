@@ -23,8 +23,11 @@
 # General Programming
   - Prefer for-each loops to traditional for loops
   - Avoid float and double if exact answers are required
+    - Effective Java / BigDecimalOverFloat.java
   - Prefer primitive types to boxed primitives
+    - Effective Java / LongInForLoopPerformance.java
   - Avoid strings where other types are more appropriate
+    - Effective Java / StringConcatenationAndPerformance.java
   
   
 # Some other topics
