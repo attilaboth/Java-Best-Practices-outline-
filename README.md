@@ -21,4 +21,12 @@
   Avoid strings where other types are more appropriate
   
   
-# Some good examples for exceptional cases
+# Some other topics
+  SonarCube - Quality Gates
+  Lazy init
+  Reflection
+  Spagetti code
+  Types of testing
+  
+# How not to do
+  examples of a production system Java code
