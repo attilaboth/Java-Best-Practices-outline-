@@ -27,6 +27,8 @@
   - Reflection
   - Spagetti code
   - Types of testing
+  - Streams
+  - Lambda Expressions
   
 # How not to do
   - examples of a production system Java code
