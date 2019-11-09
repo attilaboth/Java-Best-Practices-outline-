@@ -13,6 +13,7 @@
   - Always override hashCode when you override equals
   - Always override toString
   - Consider implementing Comparable (+ how is it done since Java 8)
+    - Effective Java / Pojos / Person.java + PersonComparableMain.java
   
 # Classes and Interfaces
   - Prefer interfaces to abstract classes
