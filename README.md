@@ -3,7 +3,8 @@
 
 # Creating Objects
   - Consider static factory methods instead of constructors
-  - Consider a builder when faced with many constructor parameters
+  - Consider a builder when faced with many constructor parameters 
+    - Effective Java / VehicleBuilder Example
   - Prefer try-with-resources to try-finally
  
 # Methods Common to All Objects
