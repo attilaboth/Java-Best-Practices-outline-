@@ -31,6 +31,7 @@
   
 # Some other topics
   - SonarCube - Quality Gates
+    - lightBSM : http://localhost:9000/dashboard?id=lightbsm20191110
   - Lazy init
   - Reflection
   - Spagetti code
